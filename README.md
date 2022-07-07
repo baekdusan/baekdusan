@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### for Swift 🍏
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=santoo)](https://solved.ac/santoo)
+### for Python 🍪
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dusanbaek)](https://solved.ac/dusanbaek)
-### santoo for Swift & dusanbaek for Python
+
 ![baekdusan's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekdusan&show_icons=true&theme=highcontrast)
