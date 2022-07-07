@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=santoo)](https://solved.ac/santoo)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=santoo)](https://solved.ac/santoo)\n
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dusanbaek)](https://solved.ac/dusanbaek)
 ![baekdusan's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekdusan&show_icons=true&theme=highcontrast)
