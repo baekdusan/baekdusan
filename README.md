@@ -20,7 +20,7 @@
   ### blog
 
   [![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=영문학&logoColor=white)](https://blog.naver.com/dusan7291)
-  [![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=정상에서보자&logoColor=white)]([https://blog.naver.com/dusan7291](https://dusanbaek.tistory.com/))
+  [![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=정상에서보자&logoColor=white)](https://dusanbaek.tistory.com/)
   [![iOS](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=dusanisbaek&logoColor=white)](https://instagram.com/dusanisbaek)
   
 </div>
