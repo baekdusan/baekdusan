@@ -36,8 +36,8 @@
 # 🧑🏻‍💻 프로필
 - 1997.12.10.<br>
 - **인천외국어고등학교** 졸업(2016.02)<br>
-- **UNIST** Material Engineering, Computer Science(2017.03. ~)<br>
-- **UNIST** TACT Lab intern(2023.07. ~)<br>
+- **UNIST** Material Engineering, Computer Science(2017. 03. ~ 2024. 08.)<br>
+- **UNIST** TACT Lab intern(2023. 07. ~ 2024. 01.)<br>
 
 # 🥇 수상
 - [ITP인천테크노파크] **2020 Do dream 창업 아이디어 경진대회**(20.11.25)
