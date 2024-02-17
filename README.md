@@ -2,29 +2,20 @@
 
 <div align="center">
 
-  ### start with
+  ### Main
   
   ![iOS](https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=iOS&logoColor=white)
-  
-  ### familiar with
-  
-  ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-  
-  ### short
-  ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?&style=for-the-badge&logo=Markdown&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 
-  ### tool
+  ### Tool
   ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white)
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
   
-  ### problem solving
+  ### Problem Solving
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dusanbaek)](https://solved.ac/dusanbaek)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=santoo)](https://solved.ac/santoo) 
 
-  ### blog
+  ### Blog
 
   [![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=정상에서보자&logoColor=white)](https://dusanbaek.tistory.com/)
   [![iOS](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=dusanisbaek&logoColor=white)](https://instagram.com/dusanisbaek)
@@ -33,13 +24,13 @@
 </div>
 
 
-# 🧑🏻‍💻 프로필
+# 🧑🏻‍💻 Profile
 - 1997.12.10.<br>
 - **인천외국어고등학교** 졸업(2016.02)<br>
 - **UNIST** Material Engineering, Computer Science(2017. 03. ~ 2024. 08.)<br>
 - **UNIST** TACT Lab intern(2023. 07. ~ 2024. 01.)<br>
 
-# 🥇 수상
+# 🥇 Awards
 - [ITP인천테크노파크] **2020 Do dream 창업 아이디어 경진대회**(20.11.25)
 > iOS, UX/UI 참여<br>
 > `장려상`
@@ -50,10 +41,10 @@
 > UX/UI 참여<br>
 > `브론즈 뱃지`
 
-# 🪪 자격증
+# 🪪 Certificate
 > [한국산업인력공단] **정보처리기사**(2021. 06. 02)
 
-# 출시 앱
+# Publishing
 > [킬링 메시지] [바로가기 🔗](https://apps.apple.com/kr/app/id1530713506)<br>
 > [코스트잇] [바로가기 🔗](https://apps.apple.com/kr/app/id1585170231)
 
