@@ -9,12 +9,10 @@
   ![Pytorch](https://img.shields.io/badge/Pytorch-F2765D.svg?&style=for-the-badge&logo=Pytorch&logoColor=DE3412)
   ![TensforFlow](https://img.shields.io/badge/Tensorflow-FFA800.svg?&style=for-the-badge&logo=Tensorflow&logoColor=FF6F00)
 
-  ### Development Environments & Tools
+  ### Development Environments & Prototyping Tools
   ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white)
-
-  ### Design & Prototyping Tools
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
   <!-- ### Problem Solving
@@ -63,12 +61,3 @@
 # 🍎 Publishing
 > [킬링 메시지] [바로가기 🔗](https://apps.apple.com/kr/app/id1530713506)<br>
 > [코스트잇] [바로가기 🔗](https://apps.apple.com/kr/app/id1585170231)
-
-
-
-
-
-
-
-
-
