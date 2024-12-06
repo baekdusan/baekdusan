@@ -2,17 +2,21 @@
 <!-- &desc=Software%20Developer&descAlignY=75&descAlign=60 -->
 <div align="center">
 
-  ### Core Skills
-  
+  ### Platforms & Frameworks
+  <!-- /텍스트-색상.svg?&style=for-the-badge&logo=apple&logoColor=white/ -->
   ![iOS](https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=apple&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-027DFD.svg?&style=for-the-badge&logo=Flutter&logoColor=0553B1)
+  ![Pytorch](https://img.shields.io/badge/Pytorch-F2765D.svg?&style=for-the-badge&logo=Pytorch&logoColor=DE3412)
+  ![TensforFlow](https://img.shields.io/badge/Tensorflow-FFA800.svg?&style=for-the-badge&logo=Tensorflow&logoColor=FF6F00)
 
-  ### Development Tools
+  ### Development Environments & Tools
   ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white)
+
+  ### Design & Prototyping Tools
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-  
+
   <!-- ### Problem Solving
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dusanbaek)](https://solved.ac/dusanbaek)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=santoo)](https://solved.ac/santoo)  -->
@@ -27,9 +31,10 @@
 
 
 # 🧑🏻‍💻 Profile
-- **인천외국어고등학교** 졸업<br>
-- **UNIST** TACT Lab intern (2023. 07. ~ 2024. 01.)<br>
-- **UNIST** 신소재공학, 컴퓨터공학 **학사**<br>
+- **1997. 12. 10.**<br>
+- **Seoul National University** Industrial Engineering M.S. Student (2025. 03. ~)
+- **UNIST** Computer Science and Engineering B.S.<br>
+- **UNIST** Materials Science and Engineering B.S.<br>
 
 
 # 🏆 **Awards**
