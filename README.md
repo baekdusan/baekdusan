@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=121212&text=Hi!%20I'm%20Dusan%20Baek&height=150&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=121212&text=Hi!%20I'm%20Dusan%20Baek&height=150&fontSize=32)
 <!-- &desc=Software%20Developer&descAlignY=75&descAlign=60 -->
 <div align="center">
 
@@ -27,30 +27,27 @@
   
 </div>
 
-
-# 🧑🏻‍💻 Profile
-- **1997. 12. 10.**<br>
-- **Seoul National University** Industrial Engineering M.S. Student (2025. 03. ~)
+# 📚 Education
+- **Seoul National University** Industrial Engineering M.S. Student (25. 03. ~)
 - **UNIST** Computer Science and Engineering B.S.<br>
 - **UNIST** Materials Science and Engineering B.S.<br>
 
+# 🏆 Awards
 
-# 🏆 **Awards**
-
-### 🥇 [SKTelecom] **SKT FLY AI CHALLENGER** 5th (2024. 08. 30.)
+### 🥇 [SKTelecom] **SKT FLY AI CHALLENGER** 5th (24. 08. 30.)
 - **대상** (팀 프로젝트 부문)
 - **대상** (개인 부문)  
   _`Flutter`, `UX / UI`, `기획`_
 
-### 🥉 [2021 Wanted] **채용 연계형 대규모 해커톤 - 해, 커리어** (2021. 11. 21.)
+### 🥉 [2021 Wanted] **채용 연계형 대규모 해커톤 - 해, 커리어** (21. 11. 21.)
 - **브론즈 뱃지**  
   _`UX / UI`, `기획`_
 
-### 🎖️ [유투버 홍드로이드] **안드로이드 해커톤 - 홍커톤** (2021. 02.)
+### 🎖️ [유투버 홍드로이드] **안드로이드 해커톤 - 홍커톤** (21. 02.)
 - **4위**  
   _`UX / UI`, `기획`_
 
-### 🎖️ [ITP인천테크노파크] **2020 Do Dream 창업 아이디어 경진대회** (2020. 11. 25.)
+### 🎖️ [ITP인천테크노파크] **2020 Do Dream 창업 아이디어 경진대회** (20. 11. 25.)
 - **장려상**  
   _`iOS`, `UX / UI`_
 
