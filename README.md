@@ -28,7 +28,7 @@
 </div>
 
 # 📚 Education
-- **Seoul National University** Industrial Engineering M.S. Student (25. 03. ~)
+- **Seoul National University** Human-Computer Interaction M.S. Student (25. 02. ~)
 - **UNIST** Computer Science and Engineering B.S.<br>
 - **UNIST** Materials Science and Engineering B.S.<br>
 
@@ -52,7 +52,6 @@
   _`iOS`, `UX / UI`_
 
 # 🪪 Certificate
-- **TEPS** 355 (class 2)<br>
 - **정보처리기사** `국가기술자격` 
 
 # 🍎 Publishing
